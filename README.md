@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yiğit Emirhan Durmuş</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitemirhandurmus&label=Profile%20views&color=0e75b6&style=flat" alt="yigitemirhandurmus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yigitemirhandurmus" alt="yigitemirhandurmus" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Python & SQL**
